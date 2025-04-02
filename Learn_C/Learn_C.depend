@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1743416800 source:c:\users\gb it\desktop\akena_c_files\learn_c\arrays.c
+	<stdio.h>
+	<stdlib.h>
+
+1584205420 source:c:\users\gb it\desktop\akena_c_files\learn_c\main.c
+	<stdio.h>
+	<stdlib.h>
+
