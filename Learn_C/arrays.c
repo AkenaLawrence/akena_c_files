@@ -3,4 +3,6 @@
 
 int main(){ //Main function
     printf("Hello, i am using code::block!");
+    int marks[5] = {70, 80, 89, 90, 100};
+    printf(marks[4]);
 }
